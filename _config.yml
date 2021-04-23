@@ -3,7 +3,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "inkspotting"
 description: "Making a mess on the internet"
-baseurl: "/inkspotting" # the subpath of your site, e.g. "/blog"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://michaelrobinette.github.io"
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
@@ -89,7 +89,7 @@ author:
   twitter: inkspot
   links:
     - title: Twitter
-      url: https://twitter.com/inkspott
+      url: https://twitter.com/inkspot
       icon: fab fa-twitter-square
     - title: Instagram
       url: https://instagram.com/inkspot
@@ -101,7 +101,7 @@ author:
 # Footer Links
 footer_links:
   - title: Twitter
-    url: https://twitter.com/inkspott
+    url: https://twitter.com/inkspot
     icon: fab fa-twitter-square
   - title: Instagram
     url: https://instagram.com/inkspot
