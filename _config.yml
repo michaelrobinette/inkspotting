@@ -4,7 +4,7 @@ locale: en-US
 title: "inkspotting"
 description: "Making a mess on the internet"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
-url: "https://michaelrobinette.github.io"
+url: 
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 google_fonts:
