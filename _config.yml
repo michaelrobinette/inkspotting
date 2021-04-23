@@ -6,7 +6,7 @@ title: "¡nkspotting"
 description: "Making a mess on the internet"
 # baseurl: "/" # the subpath of your site, e.g. "/blog"
 # url: 
-logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
+# logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 date_format: "%B %-d, %Y"
 google_fonts:
   - name: "Source Sans Pro"
