@@ -1,7 +1,7 @@
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "inkspotting"
+title: "¡nkspotting"
 description: "Making a mess on the internet"
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: 
