@@ -1,6 +1,6 @@
 ---
 title: recipes
-permalink: '/recipes/'
+permalink: /recipes/
 layout: collection
 collection: recipes
 entries_layout: grid
